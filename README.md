@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wim007
-- 👀 ik wil een  eenvoudige app bouwen waar ik mijn gustom GPT op kan laten draaien
+- 👀 ik wil een eenvoudige app bouwen waar ik mijn gustom GPT op kan laten draaien
 - 🌱 ik heb geen ervaring met het bbouwen van een app
   
   
